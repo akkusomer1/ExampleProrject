@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\Tekrar Projeleri\\Example\\Example\\Example.csproj",
+      "projectUniqueName": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\GitHubProjects\\Example\\Example\\Example.csproj",
       "projectName": "Example",
-      "projectPath": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\Tekrar Projeleri\\Example\\Example\\Example.csproj",
+      "projectPath": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\GitHubProjects\\Example\\Example\\Example.csproj",
       "packagesPath": "C:\\Users\\HUAWEI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\Tekrar Projeleri\\Example\\Example\\obj\\",
+      "outputPath": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\GitHubProjects\\Example\\Example\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HUAWEI\\AppData\\Roaming\\NuGet\\NuGet.Config",
